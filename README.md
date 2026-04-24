@@ -25,4 +25,4 @@ Le **Nombre Mystère** est un jeu de devinette où l'utilisateur doit retrouver 
 3. Lancez le script via votre terminal ou votre IDE :
    ```bash
    python nombre_mystere.py
-   Auteur : [Nassir Manouchi & Yassine Whibi]
+Auteur : [Nassir Manouchi & Yassine Whibi]
