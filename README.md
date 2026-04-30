@@ -7,11 +7,6 @@ Le **Nombre Mystère** est un jeu de devinette où l'utilisateur doit retrouver 
 
 ## 🎥 Vidéo de démonstration
 
-
-https://github.com/user-attachments/assets/52af0ff2-8a86-47ef-9ba4-e4cabcc0470f
-
-
-
 ## 🚀 Fonctionnalités principales
 - **Génération aléatoire** d'un nombre cible.
 - **Interface graphique** interactive avec Tkinter.
