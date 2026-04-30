@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/d221d0d8-2717-4c1f-b4ea-dcf24db75db2
 # 🎮 Jeu du Nombre Mystère (Projet Python)
 
 Ce projet a été réalisé dans le cadre du module Python. Il s'agit d'un jeu interactif avec interface graphique développé en Python.
