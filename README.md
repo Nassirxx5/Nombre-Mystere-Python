@@ -4,14 +4,6 @@ Ce projet a été réalisé dans le cadre du module Python. Il s'agit d'un jeu i
 
 ## 📝 Description du concept
 Le **Nombre Mystère** est un jeu de devinette où l'utilisateur doit retrouver un nombre aléatoire entre 1 et 100. L'interface guide le joueur en indiquant si le nombre est plus grand ou plus petit, tout en comptant le nombre de tentatives.
-
-## 🎥 Vidéo de démonstration
-
-
-https://github.com/user-attachments/assets/44e3988c-6fac-4b0b-adce-7d14d453b93b
-
-
-
 ## 🚀 Fonctionnalités principales
 - **Génération aléatoire** d'un nombre cible.
 - **Interface graphique** interactive avec Tkinter.
